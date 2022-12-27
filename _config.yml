@@ -1,8 +1,8 @@
 # Setup
 title: Tomas Lukavec
-description: A simple, beautiful, and powerful Jekyll theme for blogs
+description:
 # url: https://tomlukavec.github.io
-avatar: /avatar.jpeg
+avatar: /avatar.jpg
 paginate: 5
 permalink: pretty
 cover_image: /bg.jpeg
@@ -29,14 +29,14 @@ exclude:
 
 # Optimize Jekyl SEO Tag
 twitter:
-  username: vszhub
+  username: TomLuk739
   card: summary
 logo: logo.png
 social:
-  name: Songzi Vong
+  name: Tomas Lukavec
   links:
-    - https://twitter.com/vszhub
-    - https://github.com/vszhub
+    - https://twitter.com/TomLuk739
+    - https://github.com/test
 google_site_verification: xxxxx
 lang: en
 
@@ -54,6 +54,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Songzi Vong
-  url: https://github.com/vszhub/
-  email: vszhub@gmail.com
+  name: Tomas Lukavec
+  url: https://github.com/test/
+  email: test@gmail.com
