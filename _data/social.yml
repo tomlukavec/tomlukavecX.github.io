@@ -1,9 +1,9 @@
 - title: Email
-  url: mailto://vszhub@gmail.com
+  url: mailto://test@gmail.com
   icon: fas fa-envelope
 - title: Twitter
-  url: https://twitter.com/vszhub
+  url: https://twitter.com/TomLuk739
   icon: fab fa-twitter
-- title: GitHub
-  url: https://github.com/vszhub/not-pure-poole
+- title: Instagram
+  url: https://www.instagram.com/tom.lukavec/
   icon: fab fa-github
