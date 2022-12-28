@@ -1,6 +1,6 @@
 # Setup
 title: Tomas Lukavec
-description: *To italicize text* Personal website & academic blog
+description: <em>Personal website & academic blog</em>
 # url: https://tomlukavec.github.io
 avatar: /avatar.jpg
 paginate: 5
