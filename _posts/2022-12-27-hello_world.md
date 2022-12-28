@@ -25,4 +25,5 @@ Teoreticko-metodologické východisko zkoumání je ukotveno koncepty regulace a
 Jedna z nejdostupnějších klasifikací nástrojů vládnutí pochází od švédského politologa Everta Vedunga (1998), který nástroje dělí dle typu na klacky (regulatorní opatření), mrkve (hospodářské a tržní intervence) a kázání (informační opatření).  Peter Jay May (2002) pro změnu na příkladu legislativy USA třídí opatření v oblasti sociální regulace, která jsou zaměřena na omezení chování, které přímo ohrožuje veřejné zdraví, bezpečnost, blahobyt nebo well-being (jedná se např. o znečištění životního prostředí, nebezpečné pracovní prostředí, nezdravé životní podmínky a sociální vyloučení). 
 </p>
 
+<b>Read more articles like this in the future by buying me a coffee!</b>
 <a href="https://www.buymeacoffee.com/roniemartinez" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
