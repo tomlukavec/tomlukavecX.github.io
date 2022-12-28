@@ -51,6 +51,24 @@ Jedna z nejdostupnějších klasifikací nástrojů vládnutí pochází od šv�
     </div>
 </div>
 
+zdravim[^fn-sample_footnote] Tak jak se máte? 
+
+{% highlight text %}
+[^fn-sample_footnote]: Handy! Now click the return link to go back.
+{% endhighlight %}
+
+cumim[^fn-2_footnote] Tak jak se máte? 
+
+{% highlight text %}
+[^fn-2_footnote]: Handy! Now click the return link to go back.
+{% endhighlight %}
+
+mocim[^fn-sample_3] Tak jak se máte? 
+
+{% highlight text %}
+[^fn-sample_3]: Handy! Now click the return link to go back.
+{% endhighlight %}
+
 
 ![I and My friends]({{site.baseurl}}/avatar.jpg)
 
