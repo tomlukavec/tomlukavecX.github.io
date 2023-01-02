@@ -1,8 +1,59 @@
 ---
-layout: page
-title: About
+layout: post
+title: Na Manhattanu otevřela první prodejna marihuany ve státu New York
+date: 2022-12-30 00:00:00 +0000
+description: (optional)
+img: mj_nyc.jpeg # Add image post (optional)
+fig-caption: # Add figcaption (optional)
+tags: [Marijuana, Regulation] # add tag
 ---
 
-**Not Pure Poole** is a simple, beautiful, and powerful Jekyll theme for blogs. It is built on [Poole](https://github.com/poole/poole) and [Pure](https://purecss.io/).
+Ve čtvrtek 29. prosince 2022 se v newyorské čtvrti East Village otevřela první prodejna legální marihuany pro rekreační účely.
 
-For more information about Not Pure Poole, please browse the [README](https://github.com/vszhub/not-pure-poole) file.
+<br>
+
+<p style="text-align: justify"> New York legalizoval rekreační užívání a prodej této látky jako 15. stát USA již v březnu roku 2021, teprve nyní ale přichází na trh první licencované prodejny (tzv. dispensaries). Jako první se podaří otevřít prodejnu neziskové organizaci Housing Works, která se soustředí na poskytování služeb newyorským bezdomovcům a lidem s HIV a AIDS. Prodejna se bude nacházet na rozmezí čtvrtí Greenwich Village (známou např. díky místnímu zasazení seriálu Přátelé) a East Village, kde se pro změnu nachází Little Ukraine, tradiční ukrajinská čtvrť, ve které dnes žije zhruba 30 tis. ze všech 80 tis. Ukrajinců v New York City. CEO Housing Works Charles King, který vystudoval práva na Yale University a je zároveň vysvěceným baptistkým duchovním, pro televizi CBS k otevření své první prodejny dodal: </p> 
+
+> „Vše od zabaleného po předbalené... jedlé[^fn-1_footnote], prostě celá řada v různých cenových relacích. Zítra očekáváme velmi dlouhou frontu až do bloku, ale potom budeme schopni lidi obsloužit docela rychle. Sloužíme v drtivé většině obyvatelstvu, které bylo kriminalizováno válkou proti drogám, a považovali jsme za vhodné, abychom mohli nejen prodávat konopí, ale využít toho jako příležitosti k najímání a zaměstnávání lidí, kteří byli kriminalizování válkou proti drogám a postihnuti kvůli užívání a držení konopí," řekl King.“
+
+![Book logo](/assets/img/ceo.jpg)
+
+Zdroj: CBS News
+
+Výbor pro kontrolu konopí státu New York schválil 36 maloobchodních licencí pro dospělé, prodejna Housing Works Cannabis Co NYC bude první z prodejen, která na základě udělené licence začne provozovat své služby.
+
+<p style="text-align: justify">The Empire State je v očekávání stát se trhem s objemem miliard dolarů, do kterého se chtějí zapojit všechny konopné společnosti v USA. Možná i díky významnému turismu se očekává, že výnosy po etablování trhu mohou dosahovat až $7 miliard dolarů. Doposud i přes legalizaci v roce 2021 nebylo možné marihuany koupit legálně, ale pouze na černém trhu. Podle listopadového průzkumu newyorské Asociace průmyslu léčebného konopí byly produkty THC zakoupené ve 20 ilegálních obchodech s marihuanou v New Yorku pozitivně testovány na přítomnost bakterií E. coli, salmonely, pesticidů a těžkých kovů. Taková situace by na legálním trhu neměla nastat, jelikož jsou regulací stanoveny standardy, které jsou také následně vynucovány kontrolami. Na černém trhu pochopitelně kontrola kvality téměř neexistuje. 
+
+A jaké jsou další výhledy trhu v New Yorku? Očekává se se povolit rozvážku, maloobchodní prodejci by tak mohli využít alternativní způsoby pro doručení svých produktů klientům. 
+
+Reportáž CBS News, včetně celého rozhovoru s Charlesem Kingem naleznete v odkazech níže.</p>
+
+<br>
+
+<b>References:</b>
+
+
+<a href="https://www.cbsnews.com/newyork/video/new-yorks-1st-recreational-cannabis-dispensary-opens-thursday/">https://www.cbsnews.com/newyork/video/new-yorks-1st-recreational-cannabis-dispensary-opens-thursday/</a>
+
+<a href="https://www.cbsnews.com/newyork/news/what-to-expect-when-new-yorks-first-recreational-cannabis-dispensary-opens-thursday-in-manahattan/">https://www.cbsnews.com/newyork/news/what-to-expect-when-new-yorks-first-recreational-cannabis-dispensary-opens-thursday-in-manahattan/</a>
+
+<a href="https://www.cbsnews.com/newyork/news/new-yorks-first-legal-recreational-marijuana-dispensary-to-open-in-manhattan-this-week/">https://www.cbsnews.com/newyork/news/new-yorks-first-legal-recreational-marijuana-dispensary-to-open-in-manhattan-this-week/</a>
+
+<a href="https://www.businessinsider.com/where-is-the-first-legal-weed-dispensary-opening-in-nyc-2022-12">https://www.businessinsider.com/where-is-the-first-legal-weed-dispensary-opening-in-nyc-2022-12</a>
+
+<a href="https://www.businessinsider.com/guide-new-york-legal-marijuana-timeline-stocks-investors">https://www.businessinsider.com/guide-new-york-legal-marijuana-timeline-stocks-investors</a>
+
+<a href="https://www.housingworks.org/">https://www.housingworks.org/</a>
+
+<a href="https://hwcannabis.co/">https://hwcannabis.co/</a>
+
+<br>
+
+[^fn-1_footnote]: Flower (sušina), pre-rolls (předbalené jointy), edibles (potraviny s obsahem marihuany). Now click the return link to go back.
+
+<br>
+
+<b>Do you want to read more articles like this? Then by me a coffee!</b> 
+
+<a href="https://www.buymeacoffee.com/gbraad" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+
